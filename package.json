@@ -1,16 +1,15 @@
 {
-  "name": "https-server-1",
+  "name": "aur-code",
   "version": "1.0.0",
-  "description": "",
+  "description": "StartedBackend",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "body-parser": "^1.20.2",
-    "express": "^4.18.2"
-  }
+  "keywords": [
+    "javaScript",
+    "Backend"
+  ],
+  "author": "GaganSharmaGit",
+  "license": "ISC"
 }
